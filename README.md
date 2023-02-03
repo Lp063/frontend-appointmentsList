@@ -1,12 +1,17 @@
-# Appointments List frontend in React Js
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+In the project directory, you can run:
+
 
 ### `npx tailwindcss -i ./src/assets/tailwind.css -o ./src/assets/master.css --watch`
 in case ui framework does not render. 
 
-Check if below line is applied in package.json \
-"watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
+Check if below line is applied in package.json
+/* "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css" */
 
 ### `npm start`
 
