@@ -1,7 +1,8 @@
+# Appointment List in React js
+
 ## Available Scripts using BASH Cli
 
 In the project directory, you can run:
-
 
 ### `npx tailwindcss -i ./src/assets/tailwind.css -o ./src/assets/master.css --watch`
 in case ui framework does not render. 
